@@ -32,7 +32,7 @@ The project is a React application that serves as a customizable dashboard for s
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/DaminiShars/AFSD-StockMarket.git
+    git clone https://github.com/rohikareddy/Stock-market.git
     ```
 
 2. **Navigate to the project directory:**
